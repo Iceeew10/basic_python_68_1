@@ -1,0 +1,20 @@
+git clone https://github.com/aiyaman/basic_python_68_1.git
+
+cd =name_folder
+cd .. =Exit folder
+
+ls =check folder
+ls -al =show hidden folder
+
+pwd =check path
+code . = open program /(antigravity .)
+
+git init = create git repository
+git remote add origin https://github.com/aiyaman/basic_python_68_1.git = connect to github
+git config --global user.name "aiyaman"
+git config --global user.email "aiyaman@gmail.com"
+git add . = add all files
+git commit -m "first commit" = commit files
+git push origin main = push to github
+git pull origin main = pull from github
+git status = check status
